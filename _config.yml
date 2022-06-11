@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Amity Advocates"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/aa_logo.png"
   bio    : "Restore fiscal responsibility, refocus on academic excellence!"
   links:
     - label: "Website"
