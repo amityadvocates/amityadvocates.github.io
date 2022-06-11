@@ -10,9 +10,13 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   Amity Advocates is is group of residents from Bethany, Orange, and Woodbridge who are concerned about the direction the Amity Regional High School has taken over the past 4 years.<br />
+  <br />
   <small>A lack of fiscal responsibility and concern for taxpaying citizens in the face of out of control inflation.</small>
+  <br />
   <small>The move away from academic excellence toward a controversial DEI training program that results in more division in our schools.</small>
+  <br />
   <small>The drop in the Connecticut school ranking from #1 in 2014 to #26 today.</small>
+  <br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Budget 101"
